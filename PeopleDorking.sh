@@ -124,7 +124,7 @@ echo "[+] Facebook: "$Facebook"
 echo  
 echo "[+] Google: "$Google"
 
-"[+] Images: "$Images"
+"[+] Google Images: "$Images"
 echo
 echo "[+] InfoJobs: "$InfoJobs
 
