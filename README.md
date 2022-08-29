@@ -4,4 +4,24 @@ With this program you will be able to try to investigate the full names of peopl
 
 The tool has a simple and easy-to-use graphical interface for people who don't want to get complicated or don't want to type a lot you just have to select an option and the same will start working.
 
-The first Option
+
+
+
+Commands guide
+
+1. git clone https://github.com/Ebooslilhacker/SCRAPEOPLE.git
+2. cd SCRAPEOPLE
+3. chmod +x Scrapeople.sh
+
+If you want track just a one person write the next command...
+
+4. sh Scrapeople.sh NamePerson FirstSurname SecondSurname
+
+5. If you want to recon the files of agencies just execute the tool like this...
+
+sh Scrapeople.sh
+
+And when executes select the second option or option two...
+
+Finally just copy the target links and when the browser start lonely (you dont have to open the browser the software doit for you) then paste the link en the up part of the searcher (the time that lates the software to open the browser its 15 seconds the time perfect to see all target links and choose what URL copy to search later.)
+
